@@ -13,5 +13,5 @@ A simple asteroid shooter game written in C++ using Windows C++ buffer libraries
 
 ### Screenshots
 
-![alt text](https://github.com/djroxx2000/cli_linear_shooter/blob/master/assets/example1.png 'CLI Runner Demo 1')
-![alt text](https://github.com/djroxx2000/cli_linear_shooter/blob/master/assets/example2.png 'CLI Runner Demo 2')
+![alt text](https://github.com/djroxx2000/cli_linear_shooter/blob/main/assets/example1.png 'CLI Runner Demo 1')
+![alt text](https://github.com/djroxx2000/cli_linear_shooter/blob/main/assets/example2.png 'CLI Runner Demo 2')
